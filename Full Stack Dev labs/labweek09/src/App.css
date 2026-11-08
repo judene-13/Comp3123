@@ -1,0 +1,14 @@
+.App {
+  padding: 24px 16px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+.App-logo {
+  display: block;
+  height: 40vmin;
+  max-width: 100%;
+  margin: 0 auto 5vmin;
+}
